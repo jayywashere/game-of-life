@@ -28,20 +28,20 @@ everything is displayed directly in the terminal, so there's no fancy graphics h
 
 clone the repository:
 
-```bash
-git clone <insert-repository-url-here>
+```powershell
+git clone https://github.com/jayywashere/game-of-life
 cd game-of-life
 ```
 
 then run it with:
 
-```bash
+```powershell
 dotnet run
 ```
 
 ## Usage
 
-```bash
+```powershell
 dotnet run
 ```
 
